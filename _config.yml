@@ -1,0 +1,6 @@
+theme: Dinky  # 指定Jekyll主题（原生支持的主题直接写名称）
+markdown: kramdown  # 解析Markdown的引擎（GitHub Pages默认）
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true  # 开启代码块行号（美化代码展示）
