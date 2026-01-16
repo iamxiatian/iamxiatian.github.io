@@ -1,5 +1,5 @@
 title: Summer Xia's Blog  # 网站标题
-theme: dinky  # 指定Jekyll主题（原生支持的主题直接写名称）
+theme: Dinky  # 指定Jekyll主题（原生支持的主题直接写名称）
 
 markdown: kramdown
 # 代码块优化：开启语法高亮+显示行号
