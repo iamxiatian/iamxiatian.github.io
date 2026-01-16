@@ -1,3 +1,4 @@
+#title: Summer Xia's Blog  # 网站标题
 theme: Dinky  # 指定Jekyll主题（原生支持的主题直接写名称）
 markdown: kramdown  # 解析Markdown的引擎（GitHub Pages默认）
 kramdown:
