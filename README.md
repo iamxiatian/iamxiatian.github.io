@@ -10,6 +10,7 @@
 
 - Menghui Yang, Yilin Wang, Tian Xia(Corresponding Author). Entity recognition of ancient Chinese books based on semantic association and internal structural features among words[J]. The Electronic Library, 2026. [Access](https://doi.org/10.1108/EL-05-2025-0164).
 - 夏天, 仝鑫. 档案领域生成式人工智能应用的风险分级体系构建[J]. 档案学通讯, 2026,(3): 32-40.
+- 杨文,夏天,张宁,蔡东恒,杨雨萌. 2025年度省级综合档案馆微信公众号建设状况评估[J].档案与建设, 2026.
 ### 2025
 
 - Tian Xia, Xin Yang, Wenjing Wu, Yueheng Xiu, Xin Zhang, Jinyu Li, Tong Gao, Zhuoxi Tan, Rundong Hu, Tao Chen, Junzhi Jia. RUC Team at SemEval-2025 Task 5: Fast Automated Subject Indexing via
@@ -29,4 +30,5 @@ July 31 - August 1, 2025, Association for Computational Linguistics.
 - 夏天. XML原理与应用. 北京:机械工业出版社. 2015.
 - 夏天. 中文信息相似度计算理论与方法. 郑州: 河南科学技术出版社, 2009.
 - 参编：信息检索教程. 北京:中国人民大学出版社. 2021.  (第7章)
-- 参编：电子文件管理教程. 北京:中国人民大学出版社，2017.(第8章)
+- 参编：电子文件管理教程. 北京:中国人民大学出版社. 2017.(第8章)
+- 合著：数字信息保存. 北京：中国人民大学出版社. 2016.(第4章、第5章)
