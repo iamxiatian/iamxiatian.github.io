@@ -7,7 +7,10 @@
 ## Papers
 
 ### 2026
-
+- Tian Xia, Xin Yang, Wenjing Wu, Ying-Hsang Liu, Junzhi Jia. A two-stage hybrid intelligence framework for subject indexing via semantic embedding and LLM collaborative optimization[J]. Journal of Information Science, 2026. 
+[Access](https://journals.sagepub.com/doi/10.1177/01655515261449401)
+- Tian Xia, Yulong Liu, Yilin Wang, et al. LVLM Optimization for ancient Chinese book image analysis with task-specific augmentation and instruction tuning[C]. Proceedings of the Fourth Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA 2026)@LREC 2026, Palma, Mallorca, Spain, 2026, 299-304.
+[Access](http://www.lrec-conf.org/proceedings/lrec2026/workshops/lt4hala/pdf/2026.lt4hala-1.30.pdf)
 - Menghui Yang, Yilin Wang, Tian Xia(Corresponding Author). Entity recognition of ancient Chinese books based on semantic association and internal structural features among words[J]. The Electronic Library, 2026. [Access](https://doi.org/10.1108/EL-05-2025-0164).
 - 夏天, 仝鑫. 档案领域生成式人工智能应用的风险分级体系构建[J]. 档案学通讯, 2026,(3): 32-40.
 - 杨文,夏天,张宁,蔡东恒,杨雨萌. 2025年度省级综合档案馆微信公众号建设状况评估[J].档案与建设, 2026.
