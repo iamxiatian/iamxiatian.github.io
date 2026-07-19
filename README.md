@@ -1,9 +1,5 @@
 # Summer Xia
 
-## Resource
-
-- [研究资源与项目](resource.md)
-
 ## Papers
 
 ### 2026
@@ -47,3 +43,8 @@ July 31 - August 1, 2025, Association for Computational Linguistics.
 - [Ch7 查询理解](https://docs.qq.com/slide/DTUhzbkVsYWNiYUhU)
 - [Ch8 检索评价](https://docs.qq.com/slide/DTUtoVVpldnFqdEha)
 - [Ch9 Web搜索与检索增强生成](https://docs.qq.com/slide/DTUladEdOeHRpUmVx)
+
+## Resource
+
+- [研究资源与项目](resource.md)
+
