@@ -35,3 +35,15 @@ July 31 - August 1, 2025, Association for Computational Linguistics.
 - 参编：信息检索教程. 北京:中国人民大学出版社. 2021.  (第7章)
 - 参编：电子文件管理教程. 北京:中国人民大学出版社. 2017.(第8章)
 - 合著：数字信息保存. 北京：中国人民大学出版社. 2016.(第4章、第5章)
+
+## 智能信息检索课程讲义幻灯片
+
+- [Ch1 引论](https://docs.qq.com/slide/DTXZ1S0lFUWxxaEhQ)
+- [Ch2 二值向量表示与布尔检索](https://docs.qq.com/slide/DTVh6elJranpyVktO)
+- [Ch3 加权向量表示与排序式检索](https://docs.qq.com/slide/DTXJBY0pvQ3p3dEdu)
+- [Ch4 嵌入表示与向量检索](https://docs.qq.com/slide/DTXJmdEdHWFNpRkJR)
+- [Ch5 基于哈希的相似项检索](https://docs.qq.com/slide/DTVNzc3pHZkhtRlBY)
+- [Ch6 索引构建与压缩](https://docs.qq.com/slide/DTWZqZ0hoeFREeXZr)
+- [Ch7 查询理解](https://docs.qq.com/slide/DTUhzbkVsYWNiYUhU)
+- [Ch8 检索评价](https://docs.qq.com/slide/DTUtoVVpldnFqdEha)
+- [Ch9 Web搜索与检索增强生成](https://docs.qq.com/slide/DTUladEdOeHRpUmVx)
