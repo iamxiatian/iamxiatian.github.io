@@ -9,6 +9,7 @@
 [Access](http://www.lrec-conf.org/proceedings/lrec2026/workshops/lt4hala/pdf/2026.lt4hala-1.30.pdf)
 - Menghui Yang, Yilin Wang, Tian Xia(Corresponding Author). Entity recognition of ancient Chinese books based on semantic association and internal structural features among words[J]. The Electronic Library, 2026. [Access](https://doi.org/10.1108/EL-05-2025-0164).
 - 夏天, 仝鑫. 档案领域生成式人工智能应用的风险分级体系构建[J]. 档案学通讯, 2026,(3): 32-40.
+- 夏天, 杨亚和, 霍朝光, 付俊英. 基于编解码架构的中文语法纠错模型[J]. 中文信息学报, 2026, 40(9): 140-150, 176.
 - 杨文,夏天,张宁,蔡东恒,杨雨萌. 2025年度省级综合档案馆微信公众号建设状况评估[J].档案与建设, 2026.
 ### 2025
 
